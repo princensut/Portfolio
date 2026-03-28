@@ -1,5 +1,8 @@
+
+
 export const Navbar = () => {
   return (
+    
     <div className="fixed top-0 left-0 w-full z-50 bg-black/1 backdrop-blur-md border-white">
       
       <div className="flex justify-between items-center px-10 py-4">
